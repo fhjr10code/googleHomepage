@@ -30,3 +30,25 @@ input[type=search] {
 li.navBarRight {
     float: right;
 }
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
+
+div.footer a {
+    text-decoration: none;
+    padding: 10px;
+}
